@@ -7,3 +7,5 @@ This design projects was created by Frontend Mentor page.
 ## Tools
 
 The app will be created using React and Redux. For Styling it will be used Styled-Components.
+
+To configure React, Webpack is used.
