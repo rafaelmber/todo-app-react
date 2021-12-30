@@ -4,7 +4,8 @@
   "description": "This is a to do list app where you can create new tasks, mark tasks as done, and delete tasks. It can also be filtered according to the status of the task.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack --config webpack.config.dev.js",
+    "build": "webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
